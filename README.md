@@ -26,9 +26,9 @@ A Python web application that scrapes odds from multiple betting sites to highli
 * **Stack:** Python, Flask, Connexion (REST API), Selenium, SQLite.
 
 ### [Simple RAG Project](https://github.com/tndor/simple-rag)
-**Understanding the foundations of Retrieval-Augmented Generation.**
-A minimal implementation of RAG designed to understand the core mechanics: converting text into embeddings, calculating similarity scores for retrieval, and augmenting LLM prompts with relevant context. This project focuses on the fundamentals rather than tooling or scaling.
-* **Stack:** Python, Hugging Face, LLM concepts, Vector Embeddings.
+**A fully containerized, local RAG application with intelligent retrieval.**
+This project evolved from a basic script into a complete full-stack application. It features a custom Flask web interface, automated Docker Compose deployment, and a smart query router that uses Llama 3.2 to dynamically adjust retrieval strategies based on whether a user asks specific factual questions or broad summary requests.
+* **Stack:** Python (Flask), LangChain, Ollama, ChromaDB, Docker Compose.
 
 ---
 
