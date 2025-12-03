@@ -41,4 +41,4 @@ This project evolved from a basic script into a complete full-stack application.
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories to see what I've been building.
+Feel free to check out my repositories to see what I've been building.
