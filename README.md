@@ -37,7 +37,7 @@ This project evolved from a basic script into a complete full-stack application.
 * **Cloud & Infrastructure:** AWS (EKS, ECS, Lambda, EC2, S3, DynamoDB, VPC), Terraform (IaC), Kubernetes, Docker.
 * **Development:** Python (Flask, Selenium), JavaScript (React), SQL.
 * **AI & Data:** Retrieval-Augmented Generation (RAG), LangChain, Vector Databases (ChromaDB), Local LLM Inference (Ollama), Vector Embeddings.
-* **DevOps & Security:** CI/CD pipelines, Zero Trust Architecture, Network Security, SOAR, Prometheus, Grafana.
+* **DevOps & Security:** CI/CD pipelines, Network Security, SOAR, Prometheus, Grafana.
 
 ---
 
