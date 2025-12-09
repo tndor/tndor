@@ -2,7 +2,7 @@
 
 I'm a passionate **Cloud Engineering and AI enthusiast student at Fontys**. My focus is on designing and building scalable, secure cloud infrastructure and exploring the practical applications of artificial intelligence.
 
-I love solving complex problems, automating workflows, and bridging the gap between modern cloud-native technologies and legacy systems.
+I like solving problems that actually matter and deliver tangible results. 
 
 ---
 
