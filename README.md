@@ -1,6 +1,6 @@
 # Hi there, I'm Tudor! 👋
 
-I'm a passionate **Cloud Engineering and AI enthusiast student at Fontys**. My focus is on designing and building scalable, secure cloud infrastructure and exploring the practical applications of artificial intelligence.
+I'm a passionate **Cloud Engineering and AI enthusiast student at Fontys**. My focus is on designing and building infrastructure and exploring the practical applications of artificial intelligence.
 
 I like solving problems that actually matter and deliver tangible results. 
 
